@@ -1,0 +1,24 @@
+{
+  "name": "unicode-fonts-translit",
+  "version": "1.0.0",
+  "description": "Transliterate unicode fonts into ASCII symbols",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntonOrlov/unicode-fonts-translit.git"
+  },
+  "keywords": [
+    "unicode",
+    "translit",
+    "ascii"
+  ],
+  "author": "Anton Orlov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AntonOrlov/unicode-fonts-translit/issues"
+  },
+  "homepage": "https://github.com/AntonOrlov/unicode-fonts-translit#readme"
+}
